@@ -5,4 +5,4 @@ Per their explanation at rosalind.info, learning bioinformatics usually requires
 
 I heard about this from a guy I met on 7cupsoftea, an Indian native working for a big data analytics company using Hadoop and Spark. We bonded over coding, UIUC, post-rock like EITS and Porcupine Tree, and Amitabh Bachchan.
 
-Problems were completed in Python 2 with the help of online compiler Ideone.com. I strayed from my preferred online IDE codepad.org, because the needed an input source and Ideone offers stdin capabilities.
+Problems were completed in Python 2 with the help of online compiler Ideone.com. I may try to complete these problems again with functional solutions in Scala at a later time. I strayed from my preferred online IDE codepad.org, because the needed an input source and Ideone offers stdin capabilities.

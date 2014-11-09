@@ -16,7 +16,7 @@ for item in data:
 	readTitle = True
 	tempTitle = ''
 	
-	# For each item, initialize Variables to calculate gcContent
+	# For each item, initialize variables to calculate gcContent
 	dataLen = 0
 	gcCount = 0
 	

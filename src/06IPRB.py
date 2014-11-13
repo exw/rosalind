@@ -1,4 +1,4 @@
-# Computing GC content
+# Mendel's First Law
 
 # Get data
 import sys
